@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations relating to the African bill Humbly submitted to the honourable House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80365</idno>
+            <idno type="STC">Wing C5913</idno>
+            <idno type="STC">ESTC R224910</idno>
+            <idno type="EEBO-CITATION">99896960</idno>
+            <idno type="PROQUEST">99896960</idno>
+            <idno type="VID">170792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2462:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations relating to the African bill Humbly submitted to the honourable House of Commons.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal African Company --  Early works to 1800.</term>
+               <term>Trading companies --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:170792:1"/>
+            <head>CONSIDERATIONS Relating to the African BILL.</head>
+            <head type="sub">Humbly Submitted to the Honourable Houſe of Commons.</head>
+            <p>THE Preamble of the Bill aſſerts Four Things:
+<list>
+                  <item>
+                     <hi>Firſt,</hi> That the <hi>African</hi> Trade is beneficial to this Kingdom and the Plantations.</item>
+                  <item>
+                     <hi>Secondly,</hi> That Forts and Caſtles are <hi>neceſſary</hi> for ſupport of that Trade.</item>
+                  <item>
+                     <hi>Thirdly,</hi> That thoſe Forts and Caſtles have <hi>hitherto</hi> been <hi>maintain'd</hi> by the preſent <hi>African</hi> Company.</item>
+                  <item>
+                     <hi>Fourthly,</hi> That it is <hi>moſt reaſonable</hi> all the King's Subjects trading to <hi>Africa,</hi> ſhould <hi>contribute</hi> towards maintaining thoſe neceſſary Forts and Caſtles.</item>
+               </list>
+            </p>
+            <p>This Preamble being by the Committee poſtpon'd; the Firſt Clauſe of the Bill comes to be conſider'd.—And by this Clauſe,</p>
+            <p>Firſt, It is enacted, That the Royal <hi>African</hi> Company ſhall maintain the Forts and Caſtles they now have, or hereafter ſhall purchaſe or erect for the general Benefit of that Trade. And by the</p>
+            <p>Second Clauſe, It is farther enacted, That all his Majeſty's Subjects tra<g ref="char:EOLhyphen"/>ding to <hi>Africa,</hi> ſhall pay the Company <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> 
+               <hi>per Cent.</hi> towards ſupport of that neceſſary Charge, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> It hath been objected out of the Houſe (and it's probable in the Committee may be ſaid), That this Clauſe by a ſide-wind doth confirm the Company's Charter, wherein are ſeveral Privileges granted (ſaid to be) againſt Law.</p>
+            <p>
+               <hi>Anſw.</hi> With ſubmiſſion, this Clauſe can only confirm the <hi>Incorporation-Part</hi> of the Charter, which conſtitutes them a Company: And though ſome other parts of that Charter may not be juſtifiable, yet I preſume ſcarce any Lawyer will ſay that the King could not make them a Company.—But a Proviſo at the laſt may ſalve that Objection, if it hath any force: For there<g ref="char:EOLhyphen"/>in it may be provided, That nothing in this Bill ſhall be conſtrued to confirm any part of that Charter which is againſt Law; but as to thoſe they ſhall remain as tho' this Act had never been made, <hi>&amp;c.</hi>
+            </p>
+            <p>In this firſt Clauſe it will be conſider'd, Whether Forts and Caſtles are neceſſary, <hi>&amp;c.</hi>
+            </p>
+            <p>In the Opinion of a former Seſſions, Forts and Caſtles were thought ne<g ref="char:EOLhyphen"/>ceſſary; and that they are in Fact ſo, appears upon ſeveral Accounts.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe thoſe Parts are divided into ſeveral Petty-Kingdoms, gene<g ref="char:EOLhyphen"/>rally at War amongſt themſelves, and with whom no ſecurity can be had, but what Force maintains: And ſhould we not have Forts and Caſtles to defend our Effects that lye there for a Market, and ſuch as we buy, and lye ready for our Ships, they would be ſeized by the very Natives themſelves, or by ſome <hi>Europeans</hi> with whom we may have War, and who have Forts and Caſtles upon thoſe Coaſts.</p>
+            <p>
+               <hi>Secondly,</hi> They are neceſſary for the Defence of thoſe Kings that are our Allies there, whom from time to time we ſupply with all things neceſſary for
+<pb facs="tcp:170792:2"/>their Wars, and ſo preſerve them from their Enemies, and ſecure them our Friends.—And it is obſervable, that all Nations, trading to thoſe Parts, do maintain Forts and Caſtles and the <hi>African</hi> Company have been at no leſs than 450000 <hi>l.</hi> in the Purchaſe and Defence of thoſe Forts and Caſtles, and other <hi>Europeans</hi> at a proportional Charge in theirs: Now nothing leſs than Diſtraction muſt poſſeſs us and our Neighbours, to be at ſuch vaſt Expence to maintain what was not neceſſary to be done.</p>
+            <p>If Forts and Caſtles are neceſſary, then the next thing that ſeems to be con<g ref="char:EOLhyphen"/>ſidered, is, Whether a Regulated Company with a Joynt Stock (as the <hi>Afri<g ref="char:EOLhyphen"/>can</hi> Company will be, if this Bill paſſes,) with a Liberty to all others to Trade upon as eaſy Terms as the Company it ſelf, or a Regulated Company without a Joynt Stock, will carry on this Trade to the beſt Advantage of <hi>England</hi> and the Plantations.</p>
+            <p>That a Regulated Company with a Stock, and Liberty to all others to Trade upon equal Charge, will beſt ſecure and carry on the Trade, ſeems plain for ſeveral Reaſons.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> The Company being oblig'd to employ their Stock in Trade will be conſequently bound in War as well as Peace, to maintain thoſe Forts and Ca<g ref="char:EOLhyphen"/>ſtles for ſecurity of their Effects—whereas in time of War a Company without a Stock might decline their Trade, and ſo thoſe Forts and Caſtles would become a Prey, either to the Natives themſelves, or (which is moſt probable) to our Enemies, who now have, and will ſtill maintain their Forts and Caſtles; and then the Trade, with our Forts and Caſtles, will be either loſt to us, or carried on as Tributaries to thoſe <hi>Europeans</hi> into whoſe hands thoſe Defenſes ſhall fall—This moſt plainly appears by that inſtance be<g ref="char:EOLhyphen"/>tween the <hi>Dutch</hi> and <hi>Portegueſe</hi>—for when <hi>Portugal</hi> had thoſe Forts and Caſtles there the <hi>Dutch</hi> now have, <hi>Holland</hi> paid the other Tribute for Liberty to Trade: but as ſoon as the <hi>Dutch</hi> became Maſters of the Forts and Caſtles, the Tables were turn'd, and <hi>Portugal</hi> paid that Tribute to the <hi>Dutch,</hi> which they before receiv'd from them.—</item>
+               <item>
+                  <hi>Secondly,</hi> The Plantations will be certainly ſerv'd with Negroes in War as well as Peace, and can't be impoſed upon in Price, whilſt themſelves as well as others may fetch them if they ſhall think it proper to Trade.</item>
+               <item>
+                  <hi>Thirdly,</hi> Gentlemen, Widows, Orphans, or others, not bred to Trade, may in this Stock employ their Monies, both to their own and Nations advan<g ref="char:EOLhyphen"/>tage, whereas in a Company without a Stock this can t be done.</item>
+               <item>
+                  <hi>Fourthly,</hi> The <hi>African</hi> Company by this Bill may be obliged to make Entries of all their Exports, and to keep a true account of all their Charge in relation to thoſe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orts and Caſtles, and allow incidents neceſſary for the general ſup<g ref="char:EOLhyphen"/>port of this Trade, and as often as ſhall be thought neceſſary to give this Ac<g ref="char:EOLhyphen"/>count upon Oath; ſo that if too high a Duty be impos'd, in the next Seſſions it may be leſſened, or if too little, then rais'd in a due proportion, ſo that the Company may loſe if leſs than is neceſſary be laid, but they can be no Gainers whilſt they are thus accountable and ſubject to the Regulations of the very next Seſſions of Parliament, <hi>&amp;c.</hi> Other Reaſons may be given, but I do humbly conceive theſe ſufficient.</item>
+            </list>
+            <p>
+               <hi>Obj.</hi> Whereas it is objected by ſome, That a Joynt-Stock is prejudicial to Trade, and therefore this Company with a Joynt-Stock deſerves no Encou<g ref="char:EOLhyphen"/>ragement.</p>
+            <p>
+               <hi>Anſw.</hi> There is nothing can be ſaid againſt a Joynt-Stock in a Regulated Company, with a liberty to all others to Trade upon equal Terms with the Company (as this will be, if the Bill paſs) but what holds as ſtrong againſt a large Copartnerſhip: And it's reaſonably believ'd, that ſome of the chief Merchants that now oppoſe this Bill, would (in caſe this Bill be rejected) en<g ref="char:EOLhyphen"/>ter in that Copartnerſhip, and then will endeavour to impoſe that <hi>Egyptian</hi> Bondage (upon Trade) which they pretend to fear from the Company upon paſſing this Bill: And there would be ſome danger from ſuch a Copartner<g ref="char:EOLhyphen"/>ſhip,
+<pb n="3" facs="tcp:170792:2"/>but there can be none from the Company under this Bill: For ſhould the Company after this Bill, oppreſs their Fellow-Subjects (then in Conſcience as well as Law entitled to an equal liberty in the Trade,) they would deſer<g ref="char:EOLhyphen"/>vedly incur the juſt Indignation of the next Parliament, who would not only deprive them of any Power to repeat the ſame, but in probability, of their very Being, and diſſolve their Charter: So that nothing leſs than Self-preſer<g ref="char:EOLhyphen"/>vation (the greateſt Obligation poſſible) binds them to a civil Treatment to<g ref="char:EOLhyphen"/>wards their Fellow Subjects. As for the former Carriage of the Company, whilſt they thought the Powers of their Charter Legal, that can't reaſona<g ref="char:EOLhyphen"/>bly be fear'd under this Bill, when they know that others as well as themſelves, are legally entitled to that Trade. But a large Copartnerſhip will receive no ſuch Prejudice from being diſſolv'd, as a Diſſolution would prove to the Com<g ref="char:EOLhyphen"/>pany: And therefore though the Trade may be damnified by ſuch a Copart<g ref="char:EOLhyphen"/>nerſhip, there can be no danger from the Company, for the Reaſon before<g ref="char:EOLhyphen"/>mentioned.</p>
+            <p>As for the <hi>Cambia</hi> Trade, which by the Bill is propoſed to be ſecured to the Company; if this Honourable Houſe ſhall think fit to open that to all others, it's hoped ſuch a ſeparate Duty ſhall be laid, as may be proportionable to the Charge of the Building the Forts and Caſtles, and the Annual ſupport of the Trade—The Fort will coſt the Company 20000<hi>l.</hi> and the Annual Ex<g ref="char:EOLhyphen"/>pence not leſs than 6000 <hi>l.</hi> and the Trade thither was never for above 10000 <hi>l. per Annum</hi>
+            </p>
+            <p>Ever ſince the Parliament Voted that it was the undoubted Right of all the Subjects of <hi>England</hi> to Trade to Foreign Parts—none of thoſe Free Tra<g ref="char:EOLhyphen"/>ders have ever brought to the Parliament a Bill to ſettle this Trade, but ſtill op<g ref="char:EOLhyphen"/>poſed what was offered by the Company for ſettling the ſame.</p>
+            <p>The reaſon whereof is plain, becauſe thoſe Free Traders (as they truly call themſelves, having never contributed to what was neceſſary for the gene<g ref="char:EOLhyphen"/>ral ſupport of the Trade) had juſt cauſe to believe that under ſuch a Regula<g ref="char:EOLhyphen"/>tion, whatſoever it ſhould be, they muſt Pay towards what by the Parlia<g ref="char:EOLhyphen"/>ment ſhould be thought neceſſary for the general Intereſt of that Trade—whereas if they could continue that heavy load upon the <hi>African</hi> Company only by oppoſing this Bill, they ſhould then enjoy their Trade without that Expence — So that theſe Free Traders have for about Nine years laſt paſt ſince they have had a Liberty to Trade, continued no leſs burthen upon the Company than 25000 <hi>l. per Ann. communibus Annis,</hi> during this War, but would never touch this weight with one of their Fingers, though themſelves received great Profit thereby, and be equally protected in their Factories and Effects, with what belongs to the Company it ſelf.</p>
+            <p>
+               <hi>But it's now humbly hoped, this Honourable houſe will put thoſe Free Traders and the Company, for the future, upon a juſt Ballance, by giving counte<g ref="char:EOLhyphen"/>nance to this Bill, which (with all ſubmiſſion) can give no advantage to the Company above other Traders, whilſt their own Effects will be liable to the ſame charge with other Mens—And a general good ought to be ſupported by all that have benefit thereby,</hi> (viz.) <hi>Thoſe Forts and Caſtles, ſo neceſſary for the common Advantage of this Trade, the ſupport whereof hath lain too heavy upon the preſent Company, who do therefore by this Bill humbly apply themſelves to this Honourable Houſe for their Relief in the Premiſes</hi>
+            </p>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:170792:3"/>
+            <p>CONSIDERATIONS Relating to the AFRICAN BILL.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
